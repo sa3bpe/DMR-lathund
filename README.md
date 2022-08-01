@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Lathund för DMR
 
 ![](.gitbook/assets/0)
@@ -11,3 +15,5 @@
 **Lathund**
 
 **En samproduktion mellan SSA & SWEDMR**
+
+**Innehåll**
