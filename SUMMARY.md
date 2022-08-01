@@ -16,3 +16,4 @@
 * [Group Call & Private Call](group-call-and-private-call.md)
 * [Kodplugg](kodplugg.md)
 * [Color Code](color-code.md)
+* [Frekvenser](frekvenser.md)

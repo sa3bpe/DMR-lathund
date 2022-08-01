@@ -12,15 +12,7 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### Frekvenser <a href="#_toc68630455" id="_toc68630455"></a>
-
-DMO – enligt gällande bandplan för respektive band.
-
-TMO – enligt gällande bandplan för respektive band, rådgör även/gärna med distriktets repeaterkoordinator om lämplig repeaterfrekvens.
-
-![](.gitbook/assets/5)
-
-_Bildkälla:_ [_https://www.teltronic.es/en/what-is-dmo/_](https://www.teltronic.es/en/what-is-dmo/)
+### &#x20;<a href="#_toc68630455" id="_toc68630455"></a>
 
 ### Trafikexempel <a href="#_toc68630456" id="_toc68630456"></a>
 
