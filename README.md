@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Lathund för DMR
 
 ![](.gitbook/assets/0)
