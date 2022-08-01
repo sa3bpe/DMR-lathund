@@ -20,6 +20,7 @@
 * [Trafikexempel](trafikexempel.md)
 * [Bryggor mellan olika moder – exempel](bryggor-mellan-olika-moder-exempel.md)
 * [Att hitta en repeater i närheten](att-hitta-en-repeater-i-naerheten.md)
-* [Smarta tjänster](smarta-tjaenster-sms/README.md)
+* [Smarta tjänster](smarta-tjaenster-sms.md)
   * [SMS](smarta-tjaenster-sms/sms.md)
+  * [BrandMeister + Zello](smarta-tjaenster-sms/brandmeister-+-zello.md)
 * [Om dokumentet](om-dokumentet.md)
