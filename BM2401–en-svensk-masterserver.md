@@ -1,4 +1,4 @@
-# BM2401 – en svenska masterserver
+# BM2401 – en svensk masterserver
 
 En av de svenska masterservers för BrandMeister kallas i användarmun BM2401. Du hittar BM2401 dashboard här; [http://83.233.234.102/status/status.htm](http://83.233.234.102/status/status.htm)
 
