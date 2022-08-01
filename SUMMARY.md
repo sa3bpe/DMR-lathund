@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Lathund för DMR](README.md)
-* [BM2401 – en svenska masterserver](innehall.md)
+* [BM2401 – en svensk masterserver](innehall.md)
 * [Inledning](inledning.md)
 * [Ändringslogg](aendringslogg.md)
 * [DMR – Digital Mobile Radio](dmr-digital-mobile-radio.md)
