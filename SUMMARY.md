@@ -23,4 +23,5 @@
 * [Smarta tjänster](smarta-tjaenster-sms.md)
   * [SMS](smarta-tjaenster-sms/sms.md)
   * [BrandMeister + Zello](smarta-tjaenster-sms/brandmeister-+-zello.md)
+  * [Samtrafik mellan DMR (Brandmeister) / D-STAR / Yaesu C4FM (YSF)](smarta-tjaenster-sms/samtrafik-mellan-dmr-brandmeister-d-star-yaesu-c4fm-ysf.md)
 * [Om dokumentet](om-dokumentet.md)
