@@ -2,7 +2,7 @@
 
 * [Lathund för DMR](README.md)
 * [Inledning](inledning.md)
-* [Ändringslogg](aendringslogg.md)
+* [Support](support.md)
 * [DMR – Digital Mobile Radio](dmr-digital-mobile-radio.md)
 * [Utrustning för att komma igång](utrustning-foer-att-komma-igang.md)
 * [Principschema](principschema.md)
@@ -22,4 +22,3 @@
 * [Att hitta en repeater i närheten](att-hitta-en-repeater-i-naerheten.md)
 * [Smarta tjänster - SMS](smarta-tjaenster-sms.md)
 * [Om dokumentet](om-dokumentet.md)
-* [Support](support.md)
