@@ -13,3 +13,4 @@
 * [Hotspot Security](hotspot-security.md)
 * [Talgrupper](talgrupper.md)
 * [TS – TimeSlot (tidslucka)](ts-timeslot-tidslucka.md)
+* [Group Call & Private Call](group-call-and-private-call.md)
