@@ -12,29 +12,6 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### BM2401 – Den svenska masterservern <a href="#_toc68630444" id="_toc68630444"></a>
-
-Den svenska masterservern för BrandMeister kallas i användarmun BM2401. Du hittar BM2401 dashboard här; [http://83.233.234.102/status/status.htm](http://83.233.234.102/status/status.htm)
-
-Det är masterservern som håller reda på oss och sköter trafiken mellan användare och system.
-
-Blocked Users finns listade här; [http://83.233.234.102/status/places/BlockedUsers.htm](http://83.233.234.102/status/places/BlockedUsers.htm)
-
-Skulle du råka nyckla PTT för många gånger inom en kort period utan att säga något kan du råka ut för att bli blockerad. Detta är en säkerhetsfunktion i masterservern om man råkar ha sin terminal i fickan och PTT:ar av misstag. På så sätt slipper kompisarna bli irriterade och du ockuperar inte en talgrupp.
-
-### APRS / DPRS <a href="#_toc68630445" id="_toc68630445"></a>
-
-BrandMeister DMR MasterServer har inbyggda APRS-funktioner:
-
-* Positionrapporter för Hytera- och Motorola-radioapparater kan vidarebefordras till APRS
-* Telemetrihändelser för Hytera- och Motorola-radio kan vidarebefordras till APRS
-* Privata textmeddelanden kan skickas via APRS
-* Privata textmeddelanden kan tas emot från APRS-nätverket
-* APRS-gruppbulletiner kan tas emot från APRS-nätverket
-* APRS-queries till DMR-radio
-
-Läs mer här; [https://wiki.brandmeister.network/index.php/APRS](https://wiki.brandmeister.network/index.php/APRS)
-
 ### Registrering <a href="#_toc68630446" id="_toc68630446"></a>
 
 Du registrerar dig för ett sjusiffrigt DMR-id på [https://radioid.net/](https://radioid.net/) Du måste ha detta id för att kunna använda systemet. OBS, detta är en ny site då den gamla gick i graven 19/12-2020. De som registrerat sig på gamla siten, ham-digital.org uppmanas att skapa ett konto på nya siten och uppdatera sina uppgifter. Använd endast engelsk stavning dvs inga ÅÄÖ eller internationella varianter som AA, AE eller OE utan använd A eller O istället tex GAVLE för GÄVLE
