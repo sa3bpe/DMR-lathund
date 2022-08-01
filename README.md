@@ -12,68 +12,6 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### Innehåll
-
-Inledning 3
-
-Ändringslogg 3
-
-DMR – Digital Mobile Radio 4
-
-Utrustning för att komma igång 4
-
-Principschema 5
-
-BrandMeister 5
-
-BM2401 – Den svenska masterservern 5
-
-APRS / DPRS 6
-
-Registrering 6
-
-Hotspot Security 7
-
-Talgrupper 7
-
-TS – TimeSlot (tidslucka) 8
-
-TS1 (Time Slot 1) 8
-
-TS2 (Time Slot 2) 8
-
-Group Call & Private Call 10
-
-Kodplugg 10
-
-Color Code 10
-
-Frekvenser 11
-
-Trafikexempel 11
-
-Bryggor mellan olika moder – exempel 12
-
-Att hitta en repeater i närheten 13
-
-Smarta tjänster - SMS 15
-
-Om dokumentet 16
-
-### Inledning
-
-Detta dokument ska ses som en guide och vägledning för att börja använda DMR i Sverige.
-
-Mer och utförligare information finns på www.[swedmr.se](http://www.swedmr.se/) För tekniska begrepp hänvisas du till [https://wiki.brandmeister.network/index.php/Main\_Page](https://wiki.brandmeister.network/index.php/Main\_Page) här kan du söka upp begrepp som inte är förklarat i detta dokument. För handhavande av respektive utrustning hänvisas du till manualen för din enhet.
-
-### Ändringslogg <a href="#_toc68630439" id="_toc68630439"></a>
-
-* 2020-12-31 – Ändrat instruktion om registrering. //HP
-* 2020-11-23 – Lagt till TG på TS2, tagit bort överflödig maskinöversatt text från BM-wiki. //HP
-* 2021-03-22 – Lagt till info om Hotspot Security. //HP
-* 2021-04-06 – Småändringar.
-* 2022-08-01 - Publicerad på GitBooks //HP
-
 ### DMR – Digital Mobile Radio <a href="#_toc68630440" id="_toc68630440"></a>
 
 DMR – Digital Mobile Radio är kort och gott en standard som European Telecommunications Standards Institute (ETSI) tagit fram. Vi radioamatörer kör detta på VHF och/eller UHF med lämplig repeater eller hotspot som lokal gateway.
