@@ -12,20 +12,6 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### &#x20;<a href="#_toc68630447" id="_toc68630447"></a>
-
-### Talgrupper <a href="#_toc68630448" id="_toc68630448"></a>
-
-Talgrupp är som en virtuell tal-/datakanal på servern. Förkortas TG. Det finns idag fyra varianter av talgrupper:
-
-1\. Statisk TG – TG som repeaterns sysop lagt som standard på repeaterns TS1 eller TS2.
-
-2\. Dynamisk TG – TG som en användare aktiverat genom att exempelvis PTT:a en talgrupp från sin terminals kontaktbok.
-
-3\. Cluster – TG som är som ett litet kluster för exempelvis två repeatrar när man vill få till en digital crossbandslänk mellan VHF och UHF.
-
-4\. Schemalagd TG – TG som är lagd som statisk TG men schemalagd att enbart vara uppkopplad under en viss tid.
-
 ### TS – TimeSlot (tidslucka) <a href="#_toc68630449" id="_toc68630449"></a>
 
 Tidsluckor är det som gör DMR-standarden unik. Din sändning är uppdelad i 30 mS digitala paket/luckor och sändaren slås snabbt på och av i denna frekvens. Genom att göra detta kan två signaler dela samma kanal samtidigt. En på Time Slot 1 och en på Time Slot 2.![](.gitbook/assets/4)

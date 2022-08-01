@@ -11,3 +11,4 @@
 * [APRS / DPRS](aprs-dprs.md)
 * [Registrering](registrering.md)
 * [Hotspot Security](hotspot-security.md)
+* [Talgrupper](talgrupper.md)
