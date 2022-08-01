@@ -8,6 +8,7 @@
 * [Principschema](principschema.md)
 * [BrandMeister](brandmeister.md)
 * [BM2401 – en svensk masterserver](bm2401-en-svensk-masterserver.md)
+* [BM2402 – en (till) svensk masterserver](bm2402-en-till-svensk-masterserver.md)
 * [APRS / DPRS](aprs-dprs.md)
 * [Registrering](registrering.md)
 * [Hotspot Security](hotspot-security.md)
@@ -26,4 +27,3 @@
   * [Samtrafik mellan DMR (Brandmeister) / D-STAR / Yaesu C4FM (YSF)](smarta-tjaenster-sms/samtrafik-mellan-dmr-brandmeister-d-star-yaesu-c4fm-ysf.md)
   * [Rekommendation - SSA Bulle](smarta-tjaenster-sms/rekommendation-ssa-bulle.md)
 * [Om dokumentet](om-dokumentet.md)
-* [BM2402 – en (till) svensk masterserver](bm2402-en-till-svensk-masterserver.md)
