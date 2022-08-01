@@ -12,3 +12,4 @@
 * [Registrering](registrering.md)
 * [Hotspot Security](hotspot-security.md)
 * [Talgrupper](talgrupper.md)
+* [TS – TimeSlot (tidslucka)](ts-timeslot-tidslucka.md)
