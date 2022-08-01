@@ -1,4 +1,4 @@
-# Table of contents
+# Innehåll
 
 * [Lathund för DMR](README.md)
 * [Inledning](inledning.md)
