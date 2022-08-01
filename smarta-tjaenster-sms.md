@@ -1,4 +1,6 @@
-# Smarta tjänster - SMS
+# Smarta tjänster
+
+**SMS**
 
 Här kommer ett litet smart tips om SMS-funktioner i det svenska DMR-nätet (BrandMeister).\
 BrandMeister-nätverket har vissa funktioner för att begära information via SMS. För att få åtkomst till dessa funktioner ska specifika nyckelord skickas till **DMR ID 262993** (private call). Då svarar systemet via SMS på dessa förfrågningar. Nedan hittar du en översikt över kommandon med en enkel förklaring. Kommandona är inte skiftlägeskänsliga. Detta är en tysk tjänst och mer info kan hittas här; [http://wiki.bm262.de/doku.php?id=servicenummer](http://wiki.bm262.de/doku.php?id=servicenummer)
