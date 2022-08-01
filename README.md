@@ -10,7 +10,9 @@
 
 **Lathund**
 
-**En samproduktion mellan SSA & SWEDMR**
+En samproduktion mellan SSA & SWEDMR
+
+
 
 **Innehåll**
 
@@ -35,3 +37,5 @@
 * Att hitta en repeater i närheten
 * Smarta tjänster - SMS
 * Om dokumentet
+
+Välj i menyn vad du vill fördjupa dig i.&#x20;
