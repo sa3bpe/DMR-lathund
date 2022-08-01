@@ -12,13 +12,7 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### Principschema <a href="#_toc68630442" id="_toc68630442"></a>
-
-![](.gitbook/assets/3)
-
-_Bildkälla: QTC Amatörradio nr 2 2018, sid 6_
-
-### BrandMeister <a href="#_toc68630443" id="_toc68630443"></a>
+BrandMeister
 
 BrandMeister är en mjukvara för masterservrar i ett världsomspännande infrastrukturnätverk för amatörradio inom digitala röstsystem. Det är BrandMeister som håller reda på oss och levererar nättjänster som t.ex SMS, APRS osv. Vi återkommer till lite fiffiga funktioner i denna lathund.
 
