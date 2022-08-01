@@ -12,11 +12,7 @@
 
 **En samproduktion mellan SSA & SWEDMR**
 
-### DMR – Digital Mobile Radio <a href="#_toc68630440" id="_toc68630440"></a>
-
-DMR – Digital Mobile Radio är kort och gott en standard som European Telecommunications Standards Institute (ETSI) tagit fram. Vi radioamatörer kör detta på VHF och/eller UHF med lämplig repeater eller hotspot som lokal gateway.
-
-### Utrustning för att komma igång <a href="#_toc68630441" id="_toc68630441"></a>
+Utrustning för att komma igång
 
 Här får du förslag på utrustning som krävs för att komma igång med DMR. Bor du inom en repeaters täckningsområde behöver du bara en terminal. Bor du utanför repeatertäckning behöver du förutom en terminal en Hotspot. Här är valen många, du kan köpa alltifrån byggsatser med MMDVM-kort och Raspberry till färdiga lösningar som t.ex. OpenSpot. Allt beror på hur intresserad du är att bygga ihop din egna hotspot. Bygger du ihop din egna hotspot kan man budgetera ca 1000 – 1500 Kr för komplett hotspot. Väljer du en färdig lösning som t.ex. OpenSpot för du lägga din budget något högre, 2500 – 3000 Kr.
 
