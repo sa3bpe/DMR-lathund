@@ -10,3 +10,4 @@
 * [BM2401 – en svensk masterserver](bm2401-en-svensk-masterserver.md)
 * [APRS / DPRS](aprs-dprs.md)
 * [Registrering](registrering.md)
+* [Hotspot Security](hotspot-security.md)
