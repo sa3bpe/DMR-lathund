@@ -14,9 +14,7 @@
 
 
 
-### Kodplugg <a href="#_toc68630453" id="_toc68630453"></a>
-
-Den fil som du gör iordning för din terminal kallas kodplugg. Innehåller den programmering som du vill använda terminalen till. T.ex. talgrupper, ditt ID, repeatrar och kontakter. Det rekommenderas varmt att du själv sätter ihop din kodplugg då du får en djupare förståelse om hur DMR fungerar.
+### &#x20;<a href="#_toc68630453" id="_toc68630453"></a>
 
 ### Color Code <a href="#_toc68630454" id="_toc68630454"></a>
 
