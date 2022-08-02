@@ -56,4 +56,8 @@ Denna blockering är aktiv i 60 minuter på respektive masterserver som detekter
 
 Du kan häva blockeringen genom att temporärt ändra masterserver i din Hotspot eller repeater. Eller helt enkelt vänta de 60 minuter som blockeringen ligger aktiv.
 
-Tänk på att inte aktivera funktioner som har liknande sändningsmönster som generar en blockering. För dig med Hotspot se till att BER är mindre än 1%
+Tänk på att inte aktivera funktioner som har liknande sändningsmönster som generar en blockering. För dig med Hotspot se till att BER är mindre än 1%.
+
+## BER - Bit Error Rate
+
+BER står för Bit Error Rate. Detta värde bör ej vara högre än 1 %. Ju närmare 0 % du kommer ju bättre är det. Speciellt viktigt att trimma in detta värde är om du kör hotspot eller repeater baserad på MMDVM-kort.&#x20;
