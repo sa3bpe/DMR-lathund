@@ -10,4 +10,8 @@ SA3BPE - Henrik
 
 Korrektur och faktagranskning utfördes fram till 2022-07-21 av SM0TSC Johan. Vila i frid Johan! <3
 
+**Vill du bidra eller ändra något i texten?**
+
+I sådana fall går det alldeles utmärkt på [https://app.gitbook.com/s/YZ8u1CxMiPLtGbGLca4u/](https://app.gitbook.com/s/YZ8u1CxMiPLtGbGLca4u/) eller på GitHub; [https://github.com/sa3bpe/DMR-lathund](https://github.com/sa3bpe/DMR-lathund)
+
 ![](.gitbook/assets/9)
