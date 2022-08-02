@@ -14,4 +14,8 @@ Korrektur och faktagranskning utfördes fram till 2022-07-21 av SM0TSC Johan. Vi
 
 I sådana fall går det alldeles utmärkt på [https://app.gitbook.com/s/YZ8u1CxMiPLtGbGLca4u/](https://app.gitbook.com/s/YZ8u1CxMiPLtGbGLca4u/) eller på GitHub; [https://github.com/sa3bpe/DMR-lathund](https://github.com/sa3bpe/DMR-lathund)
 
+Det går även bra att kommentera på releasen här (kräver konto GitHub); [https://github.com/sa3bpe/DMR-lathund/releases/tag/DMR\_Lathund](https://github.com/sa3bpe/DMR-lathund/releases/tag/DMR\_Lathund)
+
+
+
 ![](.gitbook/assets/9)
