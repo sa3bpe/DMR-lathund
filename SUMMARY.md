@@ -28,3 +28,4 @@
   * [Rekommendation - SSA Bulle](smarta-tjaenster/rekommendation-ssa-bulle.md)
 * [Om dokumentet](om-dokumentet.md)
 * [FAQ / Ordlista](faq-ordlista.md)
+* [Hoseline](hoseline.md)
