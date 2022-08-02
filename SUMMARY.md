@@ -26,6 +26,6 @@
   * [BrandMeister + Zello](smarta-tjaenster/brandmeister-+-zello.md)
   * [Samtrafik mellan DMR (Brandmeister) / D-STAR / Yaesu C4FM (YSF)](smarta-tjaenster/samtrafik-mellan-dmr-brandmeister-d-star-yaesu-c4fm-ysf.md)
   * [Rekommendation - SSA Bulle](smarta-tjaenster/rekommendation-ssa-bulle.md)
+  * [Hoseline](smarta-tjaenster/hoseline.md)
 * [Om dokumentet](om-dokumentet.md)
 * [FAQ / Ordlista](faq-ordlista.md)
-* [Hoseline](hoseline.md)
