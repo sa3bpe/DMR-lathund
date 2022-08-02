@@ -1,6 +1,6 @@
 # FAQ / Ordlista
 
-Här kommer en liten FAQ /ordlista över begrepp som du kan stöta på.&#x20;
+Här kommer en liten FAQ / ordlista över begrepp som du kan stöta på.&#x20;
 
 ## RX Group List
 
