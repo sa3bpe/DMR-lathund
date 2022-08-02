@@ -54,6 +54,6 @@ Om du sänder 5 gånger med en tid av mindre än 2 sekunder inom en period om 60
 
 Denna blockering är aktiv i 60 minuter på respektive masterserver som detekterat loopen.
 
-Du kan häva blockeringen genom att temporärt ändra masterserver i din HotSPot eller repeater. Eller helt enkelt vänta de 60 minuter som blockeringen ligger aktiv.
+Du kan häva blockeringen genom att temporärt ändra masterserver i din Hotspot eller repeater. Eller helt enkelt vänta de 60 minuter som blockeringen ligger aktiv.
 
 Tänk på att inte aktivera funktioner som har liknande sändningsmönster som generar en blockering. För dig med Hotspot se till att BER är mindre än 1%
