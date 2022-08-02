@@ -12,9 +12,7 @@ Hoseline är ett mycket bra verktyg för att lyssna på sig själv. &#x20;
 
 **Realtids VU-mätare**
 
-En helt ny VU-meter har lagts till inuti spelaren, du hittar den precis under talgruppsnumren. Den mäter ljudet före AGC.
-
-Det görs på BrandMeister-plattformen och rapporteras oberoende av det medföljande ljudet.
+En helt ny VU-meter har lagts till inuti spelaren, du hittar den precis under talgruppsnumren. Den mäter ljudet före AGC. Detta görs på BrandMeister-plattformen och rapporteras oberoende av det medföljande ljudet.
 
 Färgkodningen är som följer:
 
