@@ -2,7 +2,7 @@
 
 Det finns en tjänst i BrandMeister som heter Hoseline. Där kan du via en webbläsare lyssna på trafiken på olika talgrupper.&#x20;
 
-För SM Se/lyssna här; [https://hose.brandmeister.network/?subscribe=240](https://hose.brandmeister.network/?subscribe=240)
+För SM se/lyssna här; [https://hose.brandmeister.network/?subscribe=240](https://hose.brandmeister.network/?subscribe=240)
 
 &#x20;<img src="../.gitbook/assets/hoseline.PNG" alt="" data-size="original">
 
