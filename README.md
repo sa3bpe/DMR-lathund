@@ -6,12 +6,12 @@
 
 ![](.gitbook/assets/2)
 
-**DMR – Digital Mobile Radio i Sverige**
+**DMR – Digital Mobile Radio i Sverige - Lathund**
 
-**Lathund**
-
-En samproduktion mellan SSA & SWEDMR
+En samproduktion mellan [https://www.ssa.se/digital/](https://www.ssa.se/digital/) & [http://www.swedmr.se/](http://www.swedmr.se/)
 
 
 
-Välj i menyn vad du vill fördjupa dig i.&#x20;
+Välj i menyn vad du vill fördjupa dig i. Vill du bidra eller upptäckt faktafel? Då hittar du information om hur du går tillväga i "Om dokumentet" som du hittar i menyn.&#x20;
+
+73 de SA3BPE
