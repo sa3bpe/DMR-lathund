@@ -2,6 +2,10 @@
 
 Här kommer en liten FAQ / ordlista över begrepp som du kan stöta på.&#x20;
 
+## Pi-Star
+
+Pi-Star är en image som ursprungligen är "byggd" för Raspberry Pi. Konceptet är enkelt, tillhandahåll de komplexa tjänsterna och konfigurationen för Digial Voice på amatörradio på ett sätt som gör det lättillgängligt för alla som precis har börjat, men gör det konfigurerbart nog att vara intressant för de av oss som inte kan låta bli att experimentera.
+
 ## RX Group List
 
 RX Group List – används som en sorts digital squelch där man lägger in de talgrupper man önskar höra. Är det tyst i din radio bör du först kontrollera hur det ser ut i din RX Group List, är den tom så släpper din terminal inte igenom trafik.
