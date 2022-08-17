@@ -65,3 +65,11 @@ Tänk på att inte aktivera funktioner som har liknande sändningsmönster som g
 ## BER - Bit Error Rate
 
 BER står för Bit Error Rate. Detta värde bör ej vara högre än 1 %. Ju närmare 0 % du kommer ju bättre är det. Speciellt viktigt att trimma in detta värde är om du kör hotspot eller repeater baserad på MMDVM-kort.&#x20;
+
+## API - Application Program Interface
+
+API är ett slags protokoll som används för att program, system och applikationer på ett enkelt sätt ska kunna prata med varandra, en slags tolk som kommunikationen går genom. Man kan beskriva ett API som ett strukturerat sätt att överföra data från ett ställe till ett annat.
+
+Mer info om API mellan BrandMeister och Pi-Star; [http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API](http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API)
+
+Mer info om API:er hos BrandMeister; [https://wiki.brandmeister.network/index.php/API](https://wiki.brandmeister.network/index.php/API)
