@@ -73,3 +73,5 @@ API är ett slags protokoll som används för att program, system och applikatio
 Mer info om API mellan BrandMeister och Pi-Star; [http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API](http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API)
 
 Mer info om API:er hos BrandMeister; [https://wiki.brandmeister.network/index.php/API](https://wiki.brandmeister.network/index.php/API)
+
+Sedan den 19/8-22 används numera v2 på API:er, har du satt upp API för t ex Pi-Star så bör du snarast byta ut din API-nyckel till nya v2 formatet. Instruktion för Pi-Star; [http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API](http://wiki.pistar.uk/PI-Star\_integration\_with\_BrandMeister\_API)&#x20;
