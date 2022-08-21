@@ -22,3 +22,4 @@ BrandMeister-nätverket har vissa funktioner för att begära information via SM
 | gps home        | Visar avstånd och riktning till din angivna hemposition                   |
 | gps callsign    | Visar avstånd och riktning till angivet callsign                          |
 
+För att aktivera "TextCapture" (så att dina SMS når dig fast din terminal är avslagen), se; [https://news.brandmeister.network/new-textcapture-feature-the-sms-store-and-forward-service-you-can-now-enable-in-your-self-care/](https://news.brandmeister.network/new-textcapture-feature-the-sms-store-and-forward-service-you-can-now-enable-in-your-self-care/)
