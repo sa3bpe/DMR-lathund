@@ -6,4 +6,4 @@ Blockerade ID; [http://44.5.24.178/status/places/BlockedUsers.htm](http://44.5.2
 
 BM2402 körs på AMPRnet, för info om vad AMPRnet är se; [https://www.amprnet.se/](https://www.amprnet.se/)
 
-BM2402 har FQDN [bm2402.dmrsweden.se](http://bm2402.dmrsweden.se)
+BM2402 har FQDN 2401.master.brandmeister.network alt. bm2402.dmrsweden.se

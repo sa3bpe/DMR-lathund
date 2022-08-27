@@ -7,5 +7,3 @@ Det är masterservern som håller reda på oss och sköter trafiken mellan anvä
 Blocked Users finns listade här; [http://83.233.234.102/status/places/BlockedUsers.htm](http://83.233.234.102/status/places/BlockedUsers.htm)
 
 Skulle du råka nyckla PTT för många gånger inom en kort period utan att säga något kan du råka ut för att bli blockerad. Detta är en säkerhetsfunktion i masterservern om man råkar ha sin terminal i fickan och PTT:ar av misstag. På så sätt slipper kompisarna bli irriterade och du ockuperar inte en talgrupp.
-
-BM2401 har FQDN 2401.master.brandmeister.network alt. bm2401.dmrsweden.se
