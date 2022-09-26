@@ -2,6 +2,12 @@
 
 Här kommer en liten FAQ / ordlista över begrepp som du kan stöta på.&#x20;
 
+## Cluster
+
+På svenska kluster. En lokal TG som på masterserver är länkad till annan TG.&#x20;
+
+Exempel: SK3RHU CLX. Kör man med TG7 lokalt på SK3RHU VHF eller UHF hamnar man på TG24033 på masterservern. TG7 fungerar enbart lokalt. TG24033 kommer däremot att fungera oavsett vilken masterserver som används på annan hotspot eller repeater.
+
 ## Pi-Star
 
 Pi-Star är en image som ursprungligen är "byggd" för Raspberry Pi. Konceptet är enkelt, tillhandahåller de komplexa tjänsterna och konfigurationen för Digial Voice på amatörradio på ett sätt som gör det lättillgängligt för alla som precis har börjat, men gör det konfigurerbart nog att vara intressant för de av oss som inte kan låta bli att experimentera.
