@@ -14,4 +14,6 @@ En samproduktion mellan [https://www.ssa.se/digital/](https://www.ssa.se/digital
 
 Välj i menyn vad du vill fördjupa dig i. Vill du bidra eller upptäckt faktafel? Då hittar du information om hur du går tillväga i "Om dokumentet" som du hittar i menyn.&#x20;
 
+För senaste version och onlinebok se; https://sa3bpe.gitbook.io/lathund-foer-dmr-digital-mobile-radio/
+
 73 de SA3BPE
