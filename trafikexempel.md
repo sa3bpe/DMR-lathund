@@ -6,4 +6,4 @@ Jag vill ropa CQ och köra DX? Då gör du lämpligast det på **TG91**, här ä
 
 Jag vill samla min klubb till en informationssändning? Lämpligaste talgruppen för detta är respektive repeaters ID som TG, använd group call.
 
-Jag vill leta efter en kompis i Tyskland? Då söker du upp din kompis DMR-id på [https://ham-digital.org/dmr-userreg.php](https://ham-digital.org/dmr-userreg.php) och ropar sedan med private call.
+Jag vill leta efter en kompis i Tyskland? Då söker du upp din kompis DMR-id på [https://www.radioid.net/](https://www.radioid.net/) och ropar sedan med private call.
