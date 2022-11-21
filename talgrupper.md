@@ -1,6 +1,6 @@
 # Talgrupper
 
-Talgrupp är som en virtuell tal-/datakanal på servern. Förkortas TG. Det finns idag fyra varianter av talgrupper:
+Talgrupp (Eng; Talk Group) är som en virtuell tal-/datakanal på servern. Förkortas TG. Det finns idag fyra varianter av talgrupper:
 
 1\. Statisk TG – TG som repeaterns sysop lagt som standard på repeaterns TS1 eller TS2.
 
