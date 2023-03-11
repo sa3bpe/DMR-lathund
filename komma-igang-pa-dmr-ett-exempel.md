@@ -16,7 +16,7 @@ SK3RHU VHF TS1
 
 Nu har vi specat terminalen att lyssna på en repeater som heter SK3RHU. Men… Förmodligen är det nu ganska tyst i radion?(!) Detta beror på att du nu behöver speca din terminal att släppa igenom trafik som kommer från repeatern på TimeSlot 1. Detta sätter du upp i något som vanligtvis kallas för RX-Group Lists.  Notera här att det är ofta förekommande att du behöver lägga in respektive talgrupp i din terminals kontaktbok för att sedan hämta in dessa till RX-Group List. När vi nu lagt in alla talgrupper i vår kontaktbok så går vi in och lägger in rätt talgrupper som repeatern är uppsatt som default i vår RX-Group List på TimeSlot 1. Exakt vilka talgrupper som ligger som statiska kan du se här; [https://brandmeister.network/?page=repeater\&id=240324](https://brandmeister.network/?page=repeater\&id=240324) Här kan du även se de dynamiska (läs; tidsinställda talgrupper), clusters och last heard på repeatern.
 
-Rätt grund för en korrekt RX-Group List för SK3RHU VHF är följande;
+Rätt grund för en korrekt RX-Group List för SK3RHU VHF är följande (du kan använda dig av en och samma RX-grouplist i din programmering);
 
 TimeSlot 1:
 
