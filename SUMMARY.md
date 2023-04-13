@@ -8,7 +8,7 @@
 * [Principschema](principschema.md)
 * [BrandMeister](brandmeister.md)
 * [BM2401 – QRT from 2023-05-01](bm2401-en-svensk-masterserver.md)
-* [BM2402 – en (till) svensk masterserver](bm2402-en-till-svensk-masterserver.md)
+* [BM2402 – den svenska masterservern](bm2402-en-till-svensk-masterserver.md)
 * [APRS / DPRS](aprs-dprs.md)
 * [Registrering](registrering.md)
 * [Hotspot Security](hotspot-security.md)

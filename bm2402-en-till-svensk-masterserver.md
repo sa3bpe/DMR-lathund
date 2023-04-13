@@ -1,6 +1,6 @@
-# BM2402 – en (till) svensk masterserver
+# BM2402 – den svenska masterservern
 
-From 230501 kommer detta var den enda svenska masterservern för BrandMeister i SM.
+From 2023-05-01 kommer detta var den enda svenska masterservern för BrandMeister i SM.
 
 Status för BM2402; [http://44.5.24.178/status/status.htm](http://44.5.24.178/status/status.htm)
 
