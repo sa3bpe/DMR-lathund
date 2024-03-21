@@ -1,4 +1,4 @@
-# Lathund för DMR
+# Lathund för DMR - Digital Mobile Radio
 
 ![](.gitbook/assets/0)
 
