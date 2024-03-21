@@ -8,7 +8,7 @@
 
 **DMR – Digital Mobile Radio i Sverige - Lathund**
 
-En samproduktion mellan [https://www.ssa.se/digital/](https://www.ssa.se/digital/) & [https://swedmr.hamdigital.se/](https://swedmr.hamdigital.se/)
+En samproduktion mellan [https://www.ssa.se/digital/](https://www.ssa.se/digital/) & [https://swedmr.se/](https://swedmr.se/)
 
 
 
