@@ -9,3 +9,5 @@ Talgrupp (Eng; Talk Group) är som en virtuell tal-/datakanal på servern. Förk
 3\. Cluster – TG som är som ett litet kluster för exempelvis två repeatrar när man vill få till en digital crossbandslänk mellan VHF och UHF.
 
 4\. Schemalagd TG – TG som är lagd som statisk TG men schemalagd att enbart vara uppkopplad under en viss tid.
+
+Du hittar listor på talgrupper gällande Sverige här; [https://swedmr.se/talgrupper/](https://swedmr.se/talgrupper/) och [https://wiki.brandmeister.network/index.php/Sweden#BrandMeister\_Sweden](https://wiki.brandmeister.network/index.php/Sweden#BrandMeister\_Sweden)&#x20;
