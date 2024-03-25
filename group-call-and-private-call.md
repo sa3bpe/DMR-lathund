@@ -11,4 +11,4 @@ Notera att det är förbjudet att kryptera trafiken med kryptonycklar i din term
 Oavsett om du kör ett Group Call eller Private Call på en repeater eller hotspot som inte är din egna. Tänk gärna på följande;
 * Visa hänsyn genom att lämna långa luckor mellan dina TX-pass. Detta då du uppehåller en Tidslucka på repeater/hotspot. Andra vill kanske även nyttja samma resurs som du.
 * Försök hålla korta QSO på publika resurser så som repeatrar & hotspots som driftas av klubbar/föreningar så fler kan komma igenom.
-* Gå gärna in på respektive resurs dashboard och ge er tillkänna på en Talgrupp som resusrsen håller per defualt.  
+* Gå gärna in på respektive resurs dashboard och ge er tillkänna på en Talgrupp som resusrsen håller per default.  
