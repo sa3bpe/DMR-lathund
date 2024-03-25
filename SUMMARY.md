@@ -30,3 +30,4 @@
 * [Om dokumentet](om-dokumentet.md)
 * [FAQ / Ordlista](faq-ordlista.md)
 * [Komma igång på DMR - ett exempel](komma-igang-pa-dmr-ett-exempel.md)
+* [Tack!](tack.md)
