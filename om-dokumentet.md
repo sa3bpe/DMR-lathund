@@ -4,7 +4,7 @@ Detta dokument är en samproduktion mellan SSA – Föreningen Sveriges Sändare
 
 Lathunden är publicerad under Creative Commons licens CC BY-NC 2.5 SE – se [https://creativecommons.org/licenses/by-nc/2.5/se/](https://creativecommons.org/licenses/by-nc/2.5/se/)
 
-2022-08-01 Hudiksvall
+2024-03-25 Iggesund
 
 SA3BPE - Henrik
 
