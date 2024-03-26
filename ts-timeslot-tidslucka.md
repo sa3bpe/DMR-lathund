@@ -2,9 +2,9 @@
 
 Tidsluckor är det som gör DMR-standarden unik. Din sändning är uppdelad i 30 mS digitala paket/luckor och sändaren slås snabbt på och av i denna frekvens. Genom att göra detta kan två signaler dela samma kanal samtidigt. En på Time Slot 1 och en på Time Slot 2.![](.gitbook/assets/4)
 
-TDMA (Time Division Multiple Access) är en annan benämning på denna funktion i DMR-standarden Tier-2.
-
 _Bildkälla:_ [_https://hvdnnotebook.blogspot.com/2018/06/a-tale-of-two-time-slots.html_](https://hvdnnotebook.blogspot.com/2018/06/a-tale-of-two-time-slots.html)
+
+TDMA (Time Division Multiple Access) är en annan benämning på denna funktion i DMR-standarden Tier-2 som nämns i bilden ovan. 
 
 ### TS1 (Time Slot 1) <a href="#_toc68630450" id="_toc68630450"></a>
 
