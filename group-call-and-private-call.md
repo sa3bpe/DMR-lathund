@@ -12,4 +12,5 @@ Oavsett om du kör ett Group Call eller Private Call på en repeater eller hotsp
 * Visa hänsyn genom att lämna långa luckor mellan dina TX-pass. Detta då du uppehåller en Tidslucka på repeater/hotspot. Andra vill kanske även nyttja samma resurs som du.
 * Försök hålla korta QSO på publika resurser så som repeatrar & hotspots som driftas av klubbar/föreningar så fler kan komma igenom.
 * Ge dig/er gärna tillkänna på TG9 med jämna mellanrum om ni har QSO med Private Call på en publik resurs. Detta då andra kanske bara ser i sin terminal att det pågår trafik men inte hör eller ser vem som pratar. 
-* Gå gärna även in på respektive resurs dashboard och ge er tillkänna på en Talgrupp som resusrsen håller per default.  
+* Gå gärna även in på respektive resurs dashboard och ge er tillkänna på en Talgrupp som resusrsen håller per default om ni kör Private Call.
+* Ett alternativ till att använda Private Call är att använda de Taktiska Talgrupperna som finns. På så sätt så ökar man trafikmängd och nyttjande av bandplanerna. Fler kan höra och eventuellt delta i QSO.    
