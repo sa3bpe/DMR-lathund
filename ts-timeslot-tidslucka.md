@@ -54,10 +54,6 @@ TG2411 ”Nationell” Taktisk QSO grupp till alla repeatrar i SM (UA Timeout 15
 
 TG2412 ”Nationell” Taktisk QSO grupp (UA Timeout 15 min)
 
-TG2415 ”Nationell Taktisk QSO grupp länkad DCS010V” (UA Timeout 15 min)
-
-TG2416 ”Swedenlink” länkad till Fusion m.m (UA Timeout 15 min
-
 TG240216 ”Swedenhubb” (UA Timeout 15 min)
 
 TG24080 ”SM XIL” (UA Timeout 15 min)
